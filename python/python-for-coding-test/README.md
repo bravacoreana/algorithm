@@ -13,7 +13,7 @@
 - [sort string](./implementation/sort-string.py)
 - [knight](./implementation/knight.py)
 
-## [DFS/BFS]
+## [DFS/BFS](./DFS&BFS/)
 
-- [DFS - stack data structure]
-- [BFS - queue data structure]
+- [DFS - stack data structure](DFS&BFS/dfs.py)
+- [BFS - queue data structure](DFS&BFS/bfs.py)
