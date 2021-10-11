@@ -1,3 +1,5 @@
+[Note-KR](https://lihakim.notion.site/907b18f586d84b29ab8038e14fdb3250)
+
 ## [greedy](./greedy/)
 
 - [until it becomes one](./greedy/until-it-becomes-one.py)
@@ -10,3 +12,8 @@
 - [time](./implementation/time.py)
 - [sort string](./implementation/sort-string.py)
 - [knight](./implementation/knight.py)
+
+## [DFS/BFS]
+
+- [DFS - stack data structure]
+- [BFS - queue data structure]
