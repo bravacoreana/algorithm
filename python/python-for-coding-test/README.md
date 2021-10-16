@@ -18,3 +18,5 @@
 - [DFS - stack data structure](DFS_BFS/dfs.py)
 - [BFS - queue data structure](DFS_BFS/bfs.py)
 - [DFS - recursive function](DFS_BFS/recursive-function.py)
+- [DFS - example](DFS_BFS/dfs-example.py)
+- [DFS - euclidean algorithm](DFS_BFS/euclidean-algorithm.py)
