@@ -15,5 +15,6 @@
 
 ## [DFS/BFS](./DFS&BFS/)
 
-- [DFS - stack data structure](DFS&BFS/dfs.py)
-- [BFS - queue data structure](DFS&BFS/bfs.py)
+- [DFS - stack data structure](DFS_BFS/dfs.py)
+- [BFS - queue data structure](DFS_BFS/bfs.py)
+- [DFS - recursive function](DFS_BFS/recursive-function.py)
