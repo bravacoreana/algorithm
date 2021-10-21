@@ -20,3 +20,8 @@
 - [DFS - recursive function](DFS_BFS/recursive-function.py)
 - [DFS - example](DFS_BFS/dfs-example.py)
 - [DFS - euclidean algorithm](DFS_BFS/euclidean-algorithm.py)
+
+## [sort](./sort/)
+
+- [selection sort](sort/selection-sort.py)
+- [insersion sort](sort/insersion-sort.py)
