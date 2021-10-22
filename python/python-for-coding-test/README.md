@@ -25,3 +25,5 @@
 
 - [selection sort](sort/selection-sort.py)
 - [insersion sort](sort/insersion-sort.py)
+- [quick sort](sort/quick-sort.py)
+- [quick sort2](sort/quick-sort2.py)
